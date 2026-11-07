@@ -1,0 +1,6 @@
+{
+  "name": "日本戰國：天下布武",
+  "description": "大戰略 + 實時戰術動作 RPG：全日本66國沙盤爭霸、親操武將破門斬將、內政外交評定與天下統一。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
